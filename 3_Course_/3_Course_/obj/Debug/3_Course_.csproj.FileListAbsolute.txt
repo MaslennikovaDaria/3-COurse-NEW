@@ -1,0 +1,9 @@
+C:\Users\HP\source\repos\3_Course_\3_Course_\bin\Debug\3_Course_.exe.config
+C:\Users\HP\source\repos\3_Course_\3_Course_\bin\Debug\3_Course_.exe
+C:\Users\HP\source\repos\3_Course_\3_Course_\bin\Debug\3_Course_.pdb
+C:\Users\HP\source\repos\3_Course_\3_Course_\obj\Debug\3_Course_.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\3_Course_\3_Course_\obj\Debug\_3_Course_.Form1.resources
+C:\Users\HP\source\repos\3_Course_\3_Course_\obj\Debug\_3_Course_.Properties.Resources.resources
+C:\Users\HP\source\repos\3_Course_\3_Course_\obj\Debug\3_Course_.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\3_Course_\3_Course_\obj\Debug\3_Course_.exe
+C:\Users\HP\source\repos\3_Course_\3_Course_\obj\Debug\3_Course_.pdb
